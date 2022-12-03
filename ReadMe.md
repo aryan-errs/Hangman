@@ -1,4 +1,4 @@
-# 🚀 Welcome to Algorithmist
+# 🚀 Wanna Hangout??
 <img src="./Site-preview.png" alt="Site preview" />
 
 ## About
